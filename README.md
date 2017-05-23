@@ -6,3 +6,6 @@ To do list:
 * [ ] Introduction
 * [ ] Background
 * [X] help
+
+: smiley:
+:clap:
