@@ -7,5 +7,5 @@ To do list:
 * [ ] Background
 * [X] help
 
-: smiley:
+:smiley:
 :clap:
